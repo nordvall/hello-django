@@ -1,5 +1,5 @@
 FROM iisdjango
 
-COPY . \Inetpub\wwwroot\
+COPY . /Inetpub/wwwroot/
 
 CMD cmd
